@@ -27,6 +27,7 @@
 extern "C" {
 #endif
 
+#include <sys/types.h>
 #include "eia608.h"
 #include "utf8.h"
 #include "xds.h"
